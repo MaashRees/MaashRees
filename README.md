@@ -113,13 +113,10 @@ I am a **Data & Full Stack Engineer** passionate about software design, AI, and 
 
 ## 📊 GitHub Stats
 
-[![Seer's GitHub stats](https://github-readme-stats.vercel.app/api?username=maashrees&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=maashrees&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Trophées](https://github-profile-trophy.vercel.app/?username=MashRees)](https://github.com/maashrees/github-profile-trophy)
 ---
 
 ### 🌐 Connect with me
 <a href="https://linkedin.com/in/seer-mensah-assiakoley-542628198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/seer_mnsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://discord.gg/8709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 <a href="https://www.maashrees.com" target="blank"><img align="center" src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" /></a>
