@@ -125,7 +125,7 @@ Ce README est conçu pour positionner Seer MENSAH-ASSIAKOLEY non pas comme un d�
 ---
 -->
 # 🚀 Seer MENSAH-ASSIAKOLEY 
-## Ingénieur Systémique & Architecte de Solutions Hybrides
+## Ingénieur FullStack & Architecte de Solutions Hybrides
 
 *Bridging Enterprise Robustness (Java) and Scientific Performance (Python/C) for Deep Tech Challenges.*
 
