@@ -1,12 +1,33 @@
-# 👋 Seer MENSAH-ASSIAKOLEY
+<p align="center">
+  <img src="assets/banner.svg" alt="maashrees, Ingénieur Logiciel et Solutions IA" width="100%">
+</p>
 
-## Ingénieur Logiciel & Solutions IA
+<p align="center">
+  <img src="assets/terminal.svg" alt="Terminal : agents, connecteur MCP en lecture seule, tests et déploiement" width="100%">
+</p>
 
-*Je conçois et livre des produits logiciels et des systèmes d'IA qui servent un usage métier réel, du prototype à la mise en production.*
+<p align="center">
+  <a href="https://www.maashrees.com"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-maashrees.com-00b8db?style=for-the-badge&labelColor=030303"></a>
+  <a href="https://www.linkedin.com/in/seer-mensah-assiakoley-542628198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Seer_Mensah--Assiakoley-ad46ff?style=for-the-badge&labelColor=030303"></a>
+  <a href="mailto:seer.mensaha@maashrees.com"><img alt="Mail" src="https://img.shields.io/badge/MAIL-seer.mensaha%40maashrees.com-fdc700?style=for-the-badge&labelColor=030303"></a>
+</p>
 
-📍 Paris, France · 🌐 [maashrees.com](https://www.maashrees.com)
+```bash
+$ whoami
+Seer MENSAH-ASSIAKOLEY   # alias maashrees
 
----
+$ pwd
+Paris, France
+
+$ cat mission.txt
+Livrer des produits logiciels et des systèmes d'IA qui servent un usage métier réel,
+du prototype à la mise en production.
+
+$ ls ~/focus
+agents/   mcp/   donnees/   plateformes-metier/   mobile/
+```
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## 💡 À propos
 
@@ -18,7 +39,7 @@ Ma façon de travailler :
 - **Rendre l'IA utile et fiable** : agents supervisés, lecture seule d'abord, validation humaine avant toute action sensible, traçabilité de chaque décision.
 - **Livrer pour de vrai** : intégration et déploiement continus, sécurité des données au niveau base, tests et documentation maintenue.
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## 🧭 Ce sur quoi je travaille
 
@@ -62,7 +83,7 @@ Classification de texte par transformers, prédiction de prix, prédiction sport
 ### ⚙️ Infrastructure & automatisation
 Hébergement auto-hébergé sur VPS (Coolify, Docker, reverse proxy, HTTPS automatique), workflows **n8n** versionnés, Supabase auto-hébergé, CI GitHub Actions, observabilité (logs centralisés).
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## 🛠 Stack technique
 
@@ -110,7 +131,7 @@ Hébergement auto-hébergé sur VPS (Coolify, Docker, reverse proxy, HTTPS autom
 ### Bases solides
 C · C++ · Algorithmique · Compilation (Flex/Bison) · Programmation réseau · Systèmes distribués · Architecture microservices
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## 📊 En chiffres
 
@@ -134,7 +155,7 @@ Statistiques calculées sur l'ensemble de mes dépôts, privés comme publics (6
   <img alt="Graphique de contributions GitHub" src="https://ghchart.rshah.org/0969da/MaashRees" width="760">
 </p>
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## 📂 Réalisations
 
@@ -193,7 +214,7 @@ Compilateur d'un sous-langage C (Flex/Bison), approximation d'images par algorit
 
 Je suis et expérimente des projets comme le Google Agent Development Kit, n8n-as-code, des skills de prompting pour Claude, des composants cartographiques MapLibre et des templates Streamlit.
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## 🎓 Parcours
 
@@ -216,7 +237,7 @@ timeline
          : Ingénieur Logiciel et Solutions IA, agents, MCP, plateformes métier
 ```
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## ✉️ Me contacter
 
