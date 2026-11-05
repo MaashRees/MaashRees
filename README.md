@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.maashrees.com"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-maashrees.com-00b8db?style=for-the-badge&labelColor=030303"></a>
   <a href="https://www.linkedin.com/in/seer-mensah-assiakoley-542628198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Seer_Mensah--Assiakoley-ad46ff?style=for-the-badge&labelColor=030303"></a>
-  <a href="mailto:seer.mensaha@maashrees.com"><img alt="Mail" src="https://img.shields.io/badge/MAIL-seer.mensaha%40maashrees.com-fdc700?style=for-the-badge&labelColor=030303"></a>
+  <a href="mailto:seer.mensaha@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/MAIL-seer.mensaha%40gmail.com-fdc700?style=for-the-badge&labelColor=030303"></a>
 </p>
 
 ```bash
@@ -275,14 +275,25 @@ timeline
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## 🎭 Centres d'intérêt
+## 🌌 Centres d'intérêt
+
+<p align="center">
+  <img src="assets/espace.svg" alt="Ciel profond : une planète à anneau, des étoiles qui scintillent et le vide sidéral" width="100%">
+</p>
 
 ```bash
 $ ls ~/hobbies
-theatre/   lecture/   cinema/   dessin/   ecriture/   photographie/   gym/   nature/
+espace/   photographie/   dessin/   ecriture/   lecture/   cinema/   theatre/   gym/   nature/
 ```
 
-Théâtre, lecture, cinéma, dessin, écriture et photographie nourrissent ma sensibilité visuelle et narrative (mes portfolios photo en sont la trace). Gym et nature font l'équilibre.
+| Domaine | Ce qui me plaît |
+| :-- | :-- |
+| **L'espace et le vide sidéral** | Le silence, l'échelle, la profondeur. Regarder loin et penser en systèmes : c'est l'esprit de ma constellation 3D et de ce profil. |
+| **Photographie** | La lumière, le contraste, le noir et blanc. Mes portfolios sont ma galerie. |
+| **Dessin et écriture** | Poser une idée, la structurer, la rendre lisible : le même geste que concevoir une architecture. |
+| **Théâtre, cinéma et lecture** | Les récits, le rythme, les personnages. Apprendre à raconter et à comprendre les gens. |
+| **Gym** | La discipline et la progression mesurable. |
+| **Nature** | Marcher, observer, couper le bruit. |
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -290,4 +301,4 @@ Théâtre, lecture, cinéma, dessin, écriture et photographie nourrissent ma se
 
 Ouvert aux échanges sur l'IA appliquée, les agents et l'ingénierie logicielle.
 
-[LinkedIn](https://www.linkedin.com/in/seer-mensah-assiakoley-542628198/) · [Portfolio](https://www.maashrees.com) · [Mail](mailto:seer.mensaha@maashrees.com)
+[LinkedIn](https://www.linkedin.com/in/seer-mensah-assiakoley-542628198/) · [Portfolio](https://www.maashrees.com) · [Mail](mailto:seer.mensaha@gmail.com)
