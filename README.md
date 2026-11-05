@@ -23,10 +23,10 @@ Ma façon de travailler :
 ## 🧭 Ce sur quoi je travaille
 
 ### 🤖 Solutions IA & agents
-Plateforme d'agents IA pour un groupe d'entreprises : un orchestrateur qui route sans agir, des agents spécialisés par domaine, une couche de supervision qui relit tout avant envoi externe, une mémoire de travail et une mémoire à long terme. Connecteurs **MCP** pour ouvrir les applications internes aux assistants IA, avec des garde-fous stricts : jetons personnels, écritures validées par un administrateur, lecture seule par défaut. Outil de tickets internes où l'IA propose une priorisation et l'humain décide, avec création automatique d'issues.
+Plateforme d'agents IA pour une holding et ses filiales (retail de vélos électriques, restauration) : un orchestrateur qui route sans agir, des agents spécialisés par domaine, une couche de supervision qui relit tout avant envoi externe, une mémoire de travail et une mémoire à long terme. Connecteurs **MCP** pour ouvrir les applications internes aux assistants IA, avec des garde-fous stricts : jetons personnels, écritures validées par un administrateur, lecture seule par défaut. Outil de tickets internes où l'IA propose une priorisation et l'humain décide, avec création automatique d'issues.
 
 ### 🏢 Plateformes métier & data
-Applications internes pour un réseau de boutiques et de sociétés : gestion RH et planning, émargement et éléments variables de paie, **réconciliation de stock** à partir d'exports avec relecture assistée par IA, **réconciliation de paiements** entre caisse, plateformes de paiement et comptabilité, commandes fournisseurs et suivi client, SAV et atelier, tableaux de bord de ventes multi-boutiques, gestion de tâches multi-projets avec génération de projets par IA. Pipelines d'import avec quarantaine des données invalides, contrôle d'écarts, et hub de documentation synchronisé automatiquement.
+Applications internes pour une holding qui regroupe un réseau de boutiques de vélos électriques et un restaurant : gestion RH et planning, émargement et éléments variables de paie, **réconciliation de stock** à partir d'exports avec relecture assistée par IA, **réconciliation de paiements** entre caisse, plateformes de paiement et comptabilité, commandes fournisseurs et suivi client, SAV et atelier, tableaux de bord de ventes multi-boutiques, gestion de tâches multi-projets avec génération de projets par IA. Pipelines d'import avec quarantaine des données invalides, contrôle d'écarts, et hub de documentation synchronisé automatiquement.
 
 ### 📱 Produits web & mobile
 Application mobile multiplateforme de mise en relation (Flutter, back-end Spring Boot, paiement en ligne, géolocalisation, notifications, pipeline Python d'analyse), PWA métier, sites vitrines et outils de réservation légers.
@@ -102,13 +102,15 @@ C · C++ · Algorithmique · Compilation (Flex/Bison) · Programmation réseau �
 | **SAV & atelier** | Prise en charge SAV, suivi de réparation et de montage, boîte de réception assistée par IA |
 | **Pilotage** | Tickets internes avec priorisation IA, plateforme de tâches multi-projets, hub de documentation synchronisé quotidiennement |
 | **Mobile** | Application mobile multiplateforme de mise en relation avec paiement et alertes, et son back-end |
-| **Opérations** | Mise en route de produits avec signature et envoi de documents, outil de réservation pour la restauration, déploiement et durcissement de serveurs |
+| **Opérations** | Mise en route de vélos avec signature du client et envoi de documents, outil de réservation pour la restauration, déploiement et durcissement de serveurs |
 
 ### Projets personnels & produits
 
 | Projet | Description |
 | :-- | :-- |
 | **Hub capillaire IA** | Catalogue visuel de coiffures avec clustering IA (HDBSCAN, embeddings), OCR, conseils météo et agenda (React, FastAPI, Supabase, n8n) |
+| **Vision board 3D** | PWA personnelle où chaque rêve est une étoile dans un ciel 3D interactif, avec étapes, inspirations intégrées et partage depuis les réseaux sociaux (Next.js, Supabase, Docker) |
+| **Nutrition & sport** | Journal de repas multimodal (photo et OCR, code-barres, saisie vocale), cibles adaptatives et moteur d'entraînement (React, FastAPI, Supabase) |
 | **Agrégateur de plannings** | Centralise Google Sheets, Google Calendar et iCal, détecte les changements d'horaires et notifie |
 | **Gouvernance multi-agents** | Un agent supérieur pilote, délègue et génère des sous-agents, avec cockpit de monitoring |
 | **Finances personnelles** | Import CSV et Excel multi-banques avec détection de doublons et tableau de bord |
@@ -146,7 +148,7 @@ Je suis et expérimente des projets comme le Google Agent Development Kit, n8n-a
 
 ## 🎓 Parcours
 
-- **Ingénieur Logiciel & Solutions IA** · Groupe de distribution (e-mobilité, multi-boutiques) · *Depuis 2026*
+- **Ingénieur Logiciel & Solutions IA** · Holding (retail de vélos électriques multi-boutiques et restauration) · *Depuis 2026*
   Applications métier, automatisation, plateforme d'agents IA, connecteurs MCP et intégrations.
 - **Formation en intelligence artificielle** · IPSSI · *2026*
   Machine learning, deep learning, NoSQL & Big Data, MERN, hackathon IA, semaine immersive.
