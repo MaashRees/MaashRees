@@ -237,11 +237,15 @@ Je suis et expérimente des projets comme le Google Agent Development Kit, n8n-a
 - Développement d'applications métier : RH et paie, stocks, réconciliation de paiements, SAV et atelier, tickets internes avec priorisation par IA.
 - Déploiement auto-hébergé (VPS, Coolify, Docker), intégration continue, sécurité des données par rôle, documentation et décisions d'architecture.
 
-**Ingénieur IT Data & IA** · VisioTerra · *05/2024 – 09/2025*
+**Ingénieur logiciel** · VisioTerra · alternance · *10/2024 – 09/2025* · Champs-sur-Marne
 
 - Entraînement de modèles de compression sur images satellites Sentinel-1 (Python, PyTorch, CUDA, OVH Cloud).
 - Migration vers PyTorch 2.3 : **-30 % de temps d'exécution**, compression jusqu'à **×250**.
-- Scripts de gestion de stockage objet S3.
+- Scripts de gestion de stockage objet S3, travail en autonomie avec GitLab et Docker.
+
+**Stagiaire ingénieur recherche & développement informatique** · VisioTerra · stage · *05/2024 – 08/2024* · Champs-sur-Marne
+
+- Traitement d'images satellitaires, avec GitLab et Docker.
 
 ## 🎓 Formation
 
@@ -258,10 +262,21 @@ timeline
     2020 - 2023 : Licence Informatique, Université Gustave Eiffel
     2023 - 2024 : Master 1 Informatique
     2024 - 2025 : Master 2 Logiciel et ingénierie de données
-                : Ingénieur IT Data et IA, modèles de compression, PyTorch 2.3
+                : Stage puis alternance, ingénieur logiciel, VisioTerra, modèles de compression, PyTorch 2.3
     2025 - 2027 : Master Développeur Big Data et IA, IPSSI Paris, en apprentissage
                 : Ingénieur Logiciel et Solutions IA, agents, MCP, plateformes métier
 ```
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## 🎭 Centres d'intérêt
+
+```bash
+$ ls ~/hobbies
+theatre/   lecture/   cinema/   dessin/   ecriture/   photographie/   gym/   nature/
+```
+
+Théâtre, lecture, cinéma, dessin, écriture et photographie nourrissent ma sensibilité visuelle et narrative (mes portfolios photo en sont la trace). Gym et nature font l'équilibre.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
