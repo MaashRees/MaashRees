@@ -1,231 +1,246 @@
-<!--
-**MaashRees/MaashRees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-# Hi there, I'm Seer! 👋
-
-I am a **Data & Full Stack Engineer** passionate about software design, AI, and Automation.
-
-- 🔭 I’m currently working on **[ChronoSync](https://github.com/MaashRees/ChronoSync)**
-- 🌱 I’m currently learning **n8n, ThreeJs, Figma, Framer**
-- 💬 Ask me about **Java, Spring, Python, Deep Learning**
-- 📄 Know about my experiences: **[My Resume](https://www.maashrees.com/assets/Resume122025-DEl5z_1-.pdf)**
-- ⚡ Fun fact: **I love photography**
-
----
-
-## 🎓 Education
-
-- **M.Sc. Computer Science: Software & Data Engineering** (2023 - 2025)
-  *Gustave Eiffel University | Champs-sur-Marne, France*
-- **B.Sc. Computer Science** (2020 - 2023)
-  *Gustave Eiffel University | Champs-sur-Marne, France*
-
-## 💼 Work Experience
-
-- **IT Engineer (Data & AI)** @ [VisioTerra] (05/2024 - 09/2025)
-  - Trained LICH models on Sentinel-1 images (Python, OVH Cloud).
-  - Code migration and optimization to PyTorch 2.3 (30% execution time reduction).
-  - Developed management scripts for S3 object storage.
-
-- **Host** @ [Théâtre du Châtelet] (12/2023 - Present)
-  - Welcoming and guiding audiences in a prestigious cultural institution.
-  - Managing multicultural interactions and conflict resolution.
-
----
-
-## 🛠 Skills
-<h3 align="left">Programming Languages</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<p align="center">
+  <img src="assets/banner.svg" alt="maashrees, Ingénieur Logiciel et Solutions IA" width="100%">
 </p>
 
-<h3 align="left">AI & Data Engineering</h3>
-<p align="left">
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+<p align="center">
+  <img src="assets/terminal.svg" alt="Terminal : agents, connecteur MCP en lecture seule, tests et déploiement" width="100%">
 </p>
 
-<h3 align="left">Frontend & Mobile</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://www.maashrees.com"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-maashrees.com-00b8db?style=for-the-badge&labelColor=030303"></a>
+  <a href="https://www.linkedin.com/in/seer-mensah-assiakoley-542628198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Seer_Mensah--Assiakoley-ad46ff?style=for-the-badge&labelColor=030303"></a>
+  <a href="mailto:seer.mensaha@maashrees.com"><img alt="Mail" src="https://img.shields.io/badge/MAIL-seer.mensaha%40maashrees.com-fdc700?style=for-the-badge&labelColor=030303"></a>
 </p>
 
-<h3 align="left">Backend Frameworks</h3>
-<p align="left">
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-</p>
+```bash
+$ whoami
+Seer MENSAH-ASSIAKOLEY   # alias maashrees
 
-<h3 align="left">DevOps & Tools</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
+$ pwd
+Paris, France
 
----
+$ cat mission.txt
+Livrer des produits logiciels et des systèmes d'IA qui servent un usage métier réel,
+du prototype à la mise en production.
 
-## 📊 GitHub Stats
+$ ls ~/focus
+agents/   mcp/   donnees/   plateformes-metier/   mobile/
+```
 
-[![Trophées](https://github-profile-trophy.vercel.app/?username=MashRees)](https://github.com/maashrees/github-profile-trophy)
----
+<img src="assets/divider.svg" alt="" width="100%">
 
-### 🌐 Connect with me
-<a href="https://linkedin.com/in/seer-mensah-assiakoley-542628198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/seer_mnsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.maashrees.com" target="blank"><img align="center" src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" /></a>
--->
-<!--
-Ce README est conçu pour positionner Seer MENSAH-ASSIAKOLEY non pas comme un développeur généraliste, mais comme un **Ingénieur Scientifique ou R&D** capable de concevoir des architectures hybrides, à la croisée de la robustesse d'entreprise et de la performance algorithmique.
+## 💡 À propos
 
----
--->
-# 🚀 Seer MENSAH-ASSIAKOLEY 
-## Ingénieur FullStack & Architecte de Solutions Hybrides
+Ingénieur logiciel, je construis des **solutions d'IA appliquées** et des **plateformes métier** : applications web et mobiles, automatisations, pipelines de données et agents IA branchés sur les outils de l'entreprise. J'opère de bout en bout : cadrage du besoin, architecture, développement, déploiement auto-hébergé, documentation et suivi.
 
-*Bridging Enterprise Robustness (Java) and Scientific Performance (Python/C) for Deep Tech Challenges.*
+Ma façon de travailler :
 
----
+- **Partir du besoin métier**, pas de la techno : cadrer, documenter les décisions (ADR), livrer par petits incréments mesurables.
+- **Rendre l'IA utile et fiable** : agents supervisés, lecture seule d'abord, validation humaine avant toute action sensible, traçabilité de chaque décision.
+- **Livrer pour de vrai** : intégration et déploiement continus, sécurité des données au niveau base, tests et documentation maintenue.
 
-## 💡 À Propos de Moi
+<img src="assets/divider.svg" alt="" width="100%">
 
-Je suis un Ingénieur Logiciel spécialisé dans la conception, l'optimisation et le déploiement de systèmes complexes et à haute performance. Mon profil se distingue par une maîtrise rare de trois piliers technologiques essentiels, me permettant d'opérer efficacement à la frontière entre le développement Backend industriel, l'ingénierie des données et l'optimisation algorithmique :
+## 🧭 Ce sur quoi je travaille
 
-1.  **Le Cœur Industriel (Java/Spring) :** Construction de microservices robustes, scalables et sécurisés pour les systèmes d'information d'entreprise.
-2.  **Le Cerveau Intelligent (Python/IA) :** Industrialisation des modèles de Machine Learning (MLOps) et optimisation des pipelines de traitement de données massives.
-3.  **Le Muscle Algorithmique (C) :** Maîtrise du bas niveau pour la performance critique et la gestion mémoire (Pathfinding, compression, calcul intensif).
+### 🤖 Solutions IA & agents
+Plateforme d'agents IA pour une holding et ses filiales (retail de vélos électriques, restauration) : un orchestrateur qui route sans agir, des agents spécialisés par domaine, une couche de supervision qui relit tout avant envoi externe, une mémoire de travail et une mémoire à long terme. Connecteurs **MCP** pour ouvrir les applications internes aux assistants IA, avec des garde-fous stricts : jetons personnels, écritures validées par un administrateur, lecture seule par défaut. Outil de tickets internes où l'IA propose une priorisation et l'humain décide, avec création automatique d'issues.
 
-Je suis passionné par l'architecture polyglotte, où le choix de l'outil est guidé par l'exigence de la tâche (Java pour la fiabilité, Python pour l'innovation, C pour la vitesse).
+```mermaid
+flowchart LR
+    U["Utilisateur<br/>(messagerie)"] --> A["Orchestrateur<br/>route sans agir"]
+    A --> D1["Agent support"]
+    A --> D2["Agent documents"]
+    A --> D3["Agent logistique"]
+    A --> D4["Agents de veille"]
+    D1 --> P["Supervision<br/>relecture obligatoire"]
+    D2 --> P
+    D3 --> P
+    D4 --> P
+    P --> O["Envoi externe validé"]
+    D1 -.-> M[("Mémoire<br/>Redis, PostgreSQL, pgvector")]
+```
 
----
+Principe des connecteurs MCP : l'assistant n'écrit jamais directement dans les données métier.
 
-## 🛠 Ma Stack Technique
+```mermaid
+flowchart LR
+    AI["Assistant IA"] -->|jeton personnel| C["Connecteur MCP"]
+    C -->|lecture seule| V[("Vues durcies")]
+    C -->|demande d'écriture| Q["File d'attente"]
+    Q -->|validation par un admin| W[("Données métier")]
+```
 
-### Backend & Core Architecture
+### 🏢 Plateformes métier & data
+Applications internes pour une holding qui regroupe un réseau de boutiques de vélos électriques et un restaurant : gestion RH et planning, émargement et éléments variables de paie, **réconciliation de stock** à partir d'exports avec relecture assistée par IA, **réconciliation de paiements** entre caisse, plateformes de paiement et comptabilité, commandes fournisseurs et suivi client, SAV et atelier, tableaux de bord de ventes multi-boutiques, gestion de tâches multi-projets avec génération de projets par IA. Pipelines d'import avec quarantaine des données invalides, contrôle d'écarts, et hub de documentation synchronisé automatiquement.
+
+### 📱 Produits web & mobile
+Application mobile multiplateforme de mise en relation (Flutter, back-end Spring Boot, paiement en ligne, géolocalisation, notifications, pipeline Python d'analyse), PWA métier, sites vitrines et outils de réservation légers.
+
+### 🧠 Data science & machine learning
+Classification de texte par transformers, prédiction de prix, prédiction sportive (XGBoost), graphes de connaissances, vision et OCR, compression de modèles, clonage et traduction de voix, scraping et veille automatisée.
+
+### ⚙️ Infrastructure & automatisation
+Hébergement auto-hébergé sur VPS (Coolify, Docker, reverse proxy, HTTPS automatique), workflows **n8n** versionnés, Supabase auto-hébergé, CI GitHub Actions, observabilité (logs centralisés).
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## 🛠 Stack technique
+
+### IA & Agents
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-black?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Backend & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Data Engineering & Intelligence Artificielle (R&D)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-<!--![MLOps](https://img.shields.io/badge/MLOps-blue?style=for-the-badge)-->
-
-### Performance & Low-Level Programming
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Pathfinding](https://img.shields.io/badge/Algorithms-Pathfinding-purple?style=for-the-badge)
-![MLV Library](https://img.shields.io/badge/Graphics-MLV-orange?style=for-the-badge)
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Cloud & DevOps
-![OVH](https://img.shields.io/badge/Cloud-OVH-123f6e?style=for-the-badge)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![OVH](https://img.shields.io/badge/Cloud-OVH-123f6e?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+### Bases solides
+C · C++ · Algorithmique · Compilation (Flex/Bison) · Programmation réseau · Systèmes distribués · Architecture microservices
 
-## 📂 Projets & Expériences Récents (Focus Polyglotte)
+<img src="assets/divider.svg" alt="" width="100%">
 
-### 1. Booqln : Plateforme de Microservices Transactionnels
-*(Démonstration du Pilier Java : Robustesse et Architecture d'Entreprise)*
+## 📊 En chiffres
 
-Application Web&Mobile gérant un réseau social dédié aux livres et des services utilisateur. On était une équipe de 5 personnes.
+Statistiques calculées sur l'ensemble de mes dépôts, privés comme publics (64 dépôts analysés, dont 58 privés).
 
-*   **Rôle :** Développeur FullStack, j'étais plus centré sur la partie Serveur et l'architecture ainsi que le visuel de certaines datas sur Mobile.
-*   **Technologies Clés :** Java, Spring Boot, Spring Security, Spring Data JPA, Microservices, Kotlin, JetPack Compose, React, H2, Google API, Open Library API, API Stripe.
-*   **Impact :** Conception d'une architecture résiliente gérant l'authentification avancée (OAuth2) et l'intégration d'APIs tierces pour la gestion transactionnelle, répondant aux exigences de fiabilité des grands systèmes.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/langages-dark.svg">
+    <img alt="Répartition du code par langage" src="assets/langages-light.svg" width="760">
+  </picture>
+</p>
 
-### 2. Optimisation IA Géospatiale chez VisioTerra
-*(Démonstration du Pilier Python/IA : MLOps et Efficacité Computationnelle)*
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/rythme-dark.svg">
+    <img alt="Nombre de dépôts créés par trimestre" src="assets/rythme-light.svg" width="760">
+  </picture>
+</p>
 
-Mission d'industrialisation et d'optimisation de modèles d'IA pour l'analyse d'images satellitaires (Sentinel-1), un travail à la croisée du Data Engineering et de l'optimisation logicielle.
+<p align="center">
+  <img alt="Graphique de contributions GitHub" src="https://ghchart.rshah.org/0969da/MaashRees" width="760">
+</p>
 
-*   **Rôle :** Ingénieur Logiciel Data.
-*   **Technologies Clés :** Python, PyTorch 2.3, CUDA, Algorithmes de compression.
-*   **Impact Mesurable :**
-    *   **Performance :** Réduction de **30% du temps d'exécution** grâce à la migration et l'optimisation du code vers PyTorch 2.3.
-    *   **Stockage/Bande Passante :** Entraînement et optimisation de 60 modèles LICH permettant d'atteindre un facteur de compression exceptionnel de **x250**. *Ce niveau d'optimisation est critique pour les déploiements en environnement contraint (embarqué ou faible bande passante).*
+<img src="assets/divider.svg" alt="" width="100%">
 
-### 3. Stealth : Simulation Algorithmique Bas Niveau (Jeu Complexe)
-*(Démonstration du Pilier C : Performance et Complexité Algorithmique)*
+## 📂 Réalisations
 
-Développement d'un jeu complexe en C, nécessitant la gestion manuelle de la mémoire et l'implémentation d'algorithmes de mouvement et de vision. Ce projet valide la compréhension des mécanismes fondamentaux de la machine.
+### Professionnelles (détails confidentiels)
 
-*   **Rôle :** Développeur Bas Niveau / Concepteur d'Algorithmes.
-*   **Technologies Clés :** C, MLV Library, Pathfinding (A*, Dijkstra), Gestion des pointeurs et de la mémoire.
-*   **Impact :** Maîtrise de la **complexité algorithmique** et capacité à optimiser des boucles critiques pour la performance en temps réel, compétence indispensable pour la R&D, la simulation et les systèmes embarqués.
+| Domaine | Ce que j'ai construit |
+| :-- | :-- |
+| **Agents IA** | Plateforme d'agents Claude (orchestrateur, agents par domaine, supervision), mémoire Redis et PostgreSQL, intégrations messagerie, documents et courriel, centre de contrôle d'administration |
+| **MCP** | Connecteurs pour exposer des applications métier aux assistants IA, avec jeton par utilisateur et file d'écriture validée |
+| **RH & paie** | PWA de planning, congés, émargement et préparation de la paie, sécurité des données par rôle et périmètre au niveau base |
+| **Stocks & achats** | Réconciliation hebdomadaire du stock avec comptages physiques et avis IA, commandes fournisseurs, suivi de colis et notifications clients |
+| **Finance** | Réconciliation de paiements multi-sources avec détection d'écarts |
+| **Ventes** | Pipeline d'import, détection d'écarts et tableaux de bord de ventes multi-boutiques |
+| **SAV & atelier** | Prise en charge SAV, suivi de réparation et de montage, boîte de réception assistée par IA |
+| **Pilotage** | Tickets internes avec priorisation IA, plateforme de tâches multi-projets, hub de documentation synchronisé quotidiennement |
+| **Mobile** | Application mobile multiplateforme de mise en relation avec paiement et alertes, et son back-end |
+| **Opérations** | Mise en route de vélos avec signature du client et envoi de documents, outil de réservation pour la restauration, déploiement et durcissement de serveurs |
 
----
+### Projets personnels & produits
 
-## 🎯 Philosophie et Positionnement
+| Projet | Description |
+| :-- | :-- |
+| **Hub capillaire IA** | Catalogue visuel de coiffures avec clustering IA (HDBSCAN, embeddings), OCR, conseils météo et agenda (React, FastAPI, Supabase, n8n) |
+| **Vision board 3D** | PWA personnelle où chaque rêve est une étoile dans un ciel 3D interactif, avec étapes, inspirations intégrées et partage depuis les réseaux sociaux (Next.js, Supabase, Docker) |
+| **Nutrition & sport** | Journal de repas multimodal (photo et OCR, code-barres, saisie vocale), cibles adaptatives et moteur d'entraînement (React, FastAPI, Supabase) |
+| **Agrégateur de plannings** | Centralise Google Sheets, Google Calendar et iCal, détecte les changements d'horaires et notifie |
+| **Gouvernance multi-agents** | Un agent supérieur pilote, délègue et génère des sous-agents, avec cockpit de monitoring |
+| **Finances personnelles** | Import CSV et Excel multi-banques avec détection de doublons et tableau de bord |
+| **Prédiction Coupe du monde 2026** | Modèle XGBoost combinant statistiques de clubs et classements Elo |
+| **Planificateur de voyages** | Optimisation d'itinéraire (Haversine), scraping de tarifs et veille des prix |
+| **Suivi de candidatures** | Application MERN multi-utilisateur avec JWT, Docker et déploiement sur VPS |
+| **Voix** | Clonage de voix en local et traducteur vocal temps réel (Whisper, LLM, synthèse vocale) |
+| **Serveur de logs** | Collecte centralisée de logs par API HTTP, image Docker |
+| **Portfolios créatifs** | Plusieurs portfolios photo, dont des versions 3D et plein écran (Next.js, Lovable, Figma) |
+| **Automatisation** | Bibliothèque de workflows n8n versionnés par domaine |
 
-Je me positionne comme l'**Ingénieur du maillon manquant**, capable de transformer un prototype scientifique (Python) en un service d'entreprise robuste (Java) tout en garantissant que les cœurs de calcul répondent aux exigences de performance (C).
+### Projets de formation & collaboration
 
-Mon objectif est d'intégrer des rôles d'**Ingénieur Logiciel R&D** ou d'**Architecte Système Hybride** au sein de structures exigeantes (Deep Tech, Aérospatial, Finance haute fréquence, Observabilité) où la polyglottie et la recherche de l'efficacité computationnelle sont des vecteurs de croissance.
+| Projet | Description |
+| :-- | :-- |
+| **Routage de tickets (NLP)** | DistilBERT fine-tuné, API FastAPI conteneurisée, déployée en ligne, F1 pondéré de 0,77 |
+| **Graphe de musées** | 137 000 œuvres et leurs artistes dans Neo4j, ETL Joconde et Wikidata, API et carte interactive |
+| **Plateforme IA de documents** | Hackathon : traitement de documents administratifs avec Azure Document Intelligence |
+| **Semaine immersive IA** | Plateforme de révision personnalisée par IA (React, Python) |
+| **Prix Airbnb** | Pipeline scikit-learn servi par API sur 84 000 logements parisiens, front React/TypeScript |
+| **Réservation en microservices** | Architecture C4, MongoDB, Cassandra et verrous Redis contre le surbooking |
+| **Assistant de garde-robe** | Application React Native, suggestion de tenue par IA selon la météo |
+| **Dépenses partagées** | API REST Django/DRF avec JWT et calcul des remboursements minimaux |
+| **Scraping e-commerce** | Collecte de données produits |
 
-> *Je ne cherche pas seulement à développer des fonctionnalités ; je cherche à optimiser la chaîne de valeur complète, de l'idée algorithmique à l'industrialisation en production.*
+### Fondamentaux (licence & master)
 
----
-<!--
-## 📈 Statistiques GitHub
+Compilateur d'un sous-langage C (Flex/Bison), approximation d'images par algorithme génétique en C, compression d'images par réseaux génératifs (PyTorch, TensorFlow, C++), programmation réseau en Java, jeux et solveurs algorithmiques (Snake, Reversi, Boggle, Slitherlink, taquin, voyageur de commerce) en C et programmation fonctionnelle.
 
+### Veille open source
 
-[![Seer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaashRees&show_icons=true&theme=radical)](https://github.com/MaashRees)
+Je suis et expérimente des projets comme le Google Agent Development Kit, n8n-as-code, des skills de prompting pour Claude, des composants cartographiques MapLibre et des templates Streamlit.
 
----
--->
+<img src="assets/divider.svg" alt="" width="100%">
 
-### ✉️ Me Contacter
+## 🎓 Parcours
 
-Connectons-nous pour discuter d'opportunités en Ingénierie Scientifique, R&D ou Architecture de Systèmes Critiques.
+- **Ingénieur Logiciel & Solutions IA** · Holding (retail de vélos électriques multi-boutiques et restauration) · *Depuis 2026*
+  Applications métier, automatisation, plateforme d'agents IA, connecteurs MCP et intégrations.
+- **Formation en intelligence artificielle** · IPSSI · *2026*
+  Machine learning, deep learning, NoSQL & Big Data, MERN, hackathon IA, semaine immersive.
+- **Ingénieur IT Data & IA** · VisioTerra · *05/2024 – 09/2025*
+  Entraînement de modèles de compression sur images Sentinel-1, migration vers PyTorch 2.3 (**-30 % de temps d'exécution**), compression jusqu'à **×250**, scripts de gestion de stockage objet S3.
+- **M.Sc. Informatique, Génie logiciel & données** · Université Gustave Eiffel · *2023 – 2025*
+- **B.Sc. Informatique** · Université Gustave Eiffel · *2020 – 2023*
 
-[Mon Profil LinkedIn](https://www.linkedin.com/in/seer-mensah-assiakoley-542628198/) | [Portfolio](https://www.maashrees.com) | [Mail](mailto:seer.mensaha@maashrees.com) | [Mail 2](mailto:seerharley03@gmail.com)
+```mermaid
+timeline
+    title Parcours
+    2020 - 2023 : B.Sc. Informatique
+    2023 - 2025 : M.Sc. Génie logiciel et données
+    2024 - 2025 : Ingénieur IT Data et IA, modèles de compression, PyTorch 2.3
+    2026 : Formation IA, hackathon et projets ML et DL
+         : Ingénieur Logiciel et Solutions IA, agents, MCP, plateformes métier
+```
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## ✉️ Me contacter
+
+Ouvert aux échanges sur l'IA appliquée, les agents et l'ingénierie logicielle.
+
+[LinkedIn](https://www.linkedin.com/in/seer-mensah-assiakoley-542628198/) · [Portfolio](https://www.maashrees.com) · [Mail](mailto:seer.mensaha@maashrees.com)
