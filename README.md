@@ -229,14 +229,23 @@ Je suis et expérimente des projets comme le Google Agent Development Kit, n8n-a
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## 🎓 Parcours
+## 💼 Expérience
 
-- **Ingénieur Logiciel & Solutions IA** · Holding (retail de vélos électriques multi-boutiques et restauration) · *Depuis 2025* · en alternance
-  Applications métier, automatisation, plateforme d'agents IA, connecteurs MCP et intégrations.
+**Ingénieur Logiciel & Solutions IA** · Holding (retail de vélos électriques multi-boutiques et restauration) · *Depuis 2025* · en alternance
+
+- Conception d'une plateforme d'agents IA (orchestrateur, agents de domaine, supervision) et de connecteurs MCP en lecture seule.
+- Développement d'applications métier : RH et paie, stocks, réconciliation de paiements, SAV et atelier, tickets internes avec priorisation par IA.
+- Déploiement auto-hébergé (VPS, Coolify, Docker), intégration continue, sécurité des données par rôle, documentation et décisions d'architecture.
+
+**Ingénieur IT Data & IA** · VisioTerra · *05/2024 – 09/2025*
+
+- Entraînement de modèles de compression sur images satellites Sentinel-1 (Python, PyTorch, CUDA, OVH Cloud).
+- Migration vers PyTorch 2.3 : **-30 % de temps d'exécution**, compression jusqu'à **×250**.
+- Scripts de gestion de stockage objet S3.
+
+## 🎓 Formation
+
 - **Master Développeur Big Data & IA** · IPSSI Paris · *2025 – 2027* · en apprentissage
-  Machine learning, deep learning, NoSQL & Big Data, MERN, hackathon IA, semaine immersive.
-- **Ingénieur IT Data & IA** · VisioTerra · *05/2024 – 09/2025*
-  Entraînement de modèles de compression sur images Sentinel-1, migration vers PyTorch 2.3 (**-30 % de temps d'exécution**), compression jusqu'à **×250**, scripts de gestion de stockage objet S3.
 - **Master 2 Logiciel & ingénierie de données** · Université Gustave Eiffel · *2024 – 2025*
 - **Master 1 Informatique** · Université Gustave Eiffel · *2023 – 2024*
 - **Licence Informatique** · Université Gustave Eiffel · *2020 – 2023*
