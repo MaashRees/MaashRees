@@ -25,6 +25,31 @@ Ma façon de travailler :
 ### 🤖 Solutions IA & agents
 Plateforme d'agents IA pour une holding et ses filiales (retail de vélos électriques, restauration) : un orchestrateur qui route sans agir, des agents spécialisés par domaine, une couche de supervision qui relit tout avant envoi externe, une mémoire de travail et une mémoire à long terme. Connecteurs **MCP** pour ouvrir les applications internes aux assistants IA, avec des garde-fous stricts : jetons personnels, écritures validées par un administrateur, lecture seule par défaut. Outil de tickets internes où l'IA propose une priorisation et l'humain décide, avec création automatique d'issues.
 
+```mermaid
+flowchart LR
+    U["Utilisateur<br/>(messagerie)"] --> A["Orchestrateur<br/>route sans agir"]
+    A --> D1["Agent support"]
+    A --> D2["Agent documents"]
+    A --> D3["Agent logistique"]
+    A --> D4["Agents de veille"]
+    D1 --> P["Supervision<br/>relecture obligatoire"]
+    D2 --> P
+    D3 --> P
+    D4 --> P
+    P --> O["Envoi externe validé"]
+    D1 -.-> M[("Mémoire<br/>Redis, PostgreSQL, pgvector")]
+```
+
+Principe des connecteurs MCP : l'assistant n'écrit jamais directement dans les données métier.
+
+```mermaid
+flowchart LR
+    AI["Assistant IA"] -->|jeton personnel| C["Connecteur MCP"]
+    C -->|lecture seule| V[("Vues durcies")]
+    C -->|demande d'écriture| Q["File d'attente"]
+    Q -->|validation par un admin| W[("Données métier")]
+```
+
 ### 🏢 Plateformes métier & data
 Applications internes pour une holding qui regroupe un réseau de boutiques de vélos électriques et un restaurant : gestion RH et planning, émargement et éléments variables de paie, **réconciliation de stock** à partir d'exports avec relecture assistée par IA, **réconciliation de paiements** entre caisse, plateformes de paiement et comptabilité, commandes fournisseurs et suivi client, SAV et atelier, tableaux de bord de ventes multi-boutiques, gestion de tâches multi-projets avec génération de projets par IA. Pipelines d'import avec quarantaine des données invalides, contrôle d'écarts, et hub de documentation synchronisé automatiquement.
 
@@ -84,6 +109,30 @@ Hébergement auto-hébergé sur VPS (Coolify, Docker, reverse proxy, HTTPS autom
 
 ### Bases solides
 C · C++ · Algorithmique · Compilation (Flex/Bison) · Programmation réseau · Systèmes distribués · Architecture microservices
+
+---
+
+## 📊 En chiffres
+
+Statistiques calculées sur l'ensemble de mes dépôts, privés comme publics (64 dépôts analysés, dont 58 privés).
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/langages-dark.svg">
+    <img alt="Répartition du code par langage" src="assets/langages-light.svg" width="760">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/rythme-dark.svg">
+    <img alt="Nombre de dépôts créés par trimestre" src="assets/rythme-light.svg" width="760">
+  </picture>
+</p>
+
+<p align="center">
+  <img alt="Graphique de contributions GitHub" src="https://ghchart.rshah.org/0969da/MaashRees" width="760">
+</p>
 
 ---
 
@@ -156,6 +205,16 @@ Je suis et expérimente des projets comme le Google Agent Development Kit, n8n-a
   Entraînement de modèles de compression sur images Sentinel-1, migration vers PyTorch 2.3 (**-30 % de temps d'exécution**), compression jusqu'à **×250**, scripts de gestion de stockage objet S3.
 - **M.Sc. Informatique, Génie logiciel & données** · Université Gustave Eiffel · *2023 – 2025*
 - **B.Sc. Informatique** · Université Gustave Eiffel · *2020 – 2023*
+
+```mermaid
+timeline
+    title Parcours
+    2020 - 2023 : B.Sc. Informatique
+    2023 - 2025 : M.Sc. Génie logiciel et données
+    2024 - 2025 : Ingénieur IT Data et IA, modèles de compression, PyTorch 2.3
+    2026 : Formation IA, hackathon et projets ML et DL
+         : Ingénieur Logiciel et Solutions IA, agents, MCP, plateformes métier
+```
 
 ---
 
