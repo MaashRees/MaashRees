@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.maashrees.com"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-maashrees.com-00b8db?style=for-the-badge&labelColor=030303"></a>
   <a href="https://www.linkedin.com/in/seer-mensah-assiakoley-542628198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Seer_Mensah--Assiakoley-ad46ff?style=for-the-badge&labelColor=030303"></a>
-  <a href="mailto:seer.mensaha@maashrees.com"><img alt="Mail" src="https://img.shields.io/badge/MAIL-seer.mensaha%40maashrees.com-fdc700?style=for-the-badge&labelColor=030303"></a>
+  <a href="mailto:seer.mensaha@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/MAIL-seer.mensaha%40gmail.com-fdc700?style=for-the-badge&labelColor=030303"></a>
 </p>
 
 ```bash
@@ -87,8 +87,21 @@ Hébergement auto-hébergé sur VPS (Coolify, Docker, reverse proxy, HTTPS autom
 
 ## 🛠 Stack technique
 
+<p align="center">
+  <img src="assets/stack-3d.svg" alt="Graphe 3D en rotation du stack : IA et LLM (API Anthropic, OpenRouter, MCP), backend et données, front et mobile, DevOps" width="100%">
+</p>
+
+### Utilisation des API d'IA
+
+| API | Ce que j'en fais | Détails |
+| :-- | :-- | :-- |
+| **API Anthropic** (Claude) | Agents d'orchestration, de domaine et de supervision, analyse de tickets, génération de projets, relecture assistée de rapprochements | L'IA propose, l'humain décide ; relecture avant tout envoi externe |
+| **OpenRouter** | Accès à plusieurs modèles par une seule API : vision et conseils personnalisés, traduction | Choix du fournisseur par configuration, avec bascule entre cloud et modèle local |
+| **MCP** | Exposer des applications métier aux assistants IA | Lecture seule par défaut, écritures en file d'attente validées, jeton personnel par utilisateur |
+
 ### IA & Agents
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-API_multi--modèles-6467F2?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-black?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -216,26 +229,71 @@ Je suis et expérimente des projets comme le Google Agent Development Kit, n8n-a
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## 🎓 Parcours
+## 💼 Expérience
 
-- **Ingénieur Logiciel & Solutions IA** · Holding (retail de vélos électriques multi-boutiques et restauration) · *Depuis 2026*
-  Applications métier, automatisation, plateforme d'agents IA, connecteurs MCP et intégrations.
-- **Formation en intelligence artificielle** · IPSSI · *2026*
-  Machine learning, deep learning, NoSQL & Big Data, MERN, hackathon IA, semaine immersive.
-- **Ingénieur IT Data & IA** · VisioTerra · *05/2024 – 09/2025*
-  Entraînement de modèles de compression sur images Sentinel-1, migration vers PyTorch 2.3 (**-30 % de temps d'exécution**), compression jusqu'à **×250**, scripts de gestion de stockage objet S3.
-- **M.Sc. Informatique, Génie logiciel & données** · Université Gustave Eiffel · *2023 – 2025*
-- **B.Sc. Informatique** · Université Gustave Eiffel · *2020 – 2023*
+**Ingénieur Logiciel & Solutions IA** · MJY Holding (retail de vélos électriques multi-boutiques et restauration) · alternance · *depuis 11/2026*
+
+- Conception d'une plateforme d'agents IA (orchestrateur, agents de domaine, supervision) et de connecteurs MCP en lecture seule.
+- Développement d'applications métier : RH et paie, stocks, réconciliation de paiements, SAV et atelier, tickets internes avec priorisation par IA.
+- Déploiement auto-hébergé (VPS, Coolify, Docker), intégration continue, sécurité des données par rôle, documentation et décisions d'architecture.
+
+**Stagiaire Ingénieur Logiciel & Solutions IA** · MJY Holding · stage · *07/2026 – 11/2026*
+
+- Développement d'applications métier internes (RH et planning, SAV et atelier, stocks) et mise en place de l'infrastructure auto-hébergée.
+- Premiers automatismes n8n et premières briques de la plateforme d'agents IA.
+
+**Ingénieur logiciel** · VisioTerra · alternance · *10/2024 – 09/2025* · Champs-sur-Marne
+
+- Entraînement de modèles de compression sur images satellites Sentinel-1 (Python, PyTorch, CUDA, OVH Cloud).
+- Migration vers PyTorch 2.3 : **-30 % de temps d'exécution**, compression jusqu'à **×250**.
+- Scripts de gestion de stockage objet S3, travail en autonomie avec GitLab et Docker.
+
+**Stagiaire ingénieur recherche & développement informatique** · VisioTerra · stage · *05/2024 – 08/2024* · Champs-sur-Marne
+
+- Traitement d'images satellitaires, avec GitLab et Docker.
+
+## 🎓 Formation
+
+- **Master Développeur Big Data & IA** · IPSSI Paris · *2025 – 2027* · en apprentissage
+- **Master 2 Logiciel & ingénierie de données** · Université Gustave Eiffel · *2024 – 2025*
+- **Master 1 Informatique** · Université Gustave Eiffel · *2023 – 2024*
+- **Licence Informatique** · Université Gustave Eiffel · *2020 – 2023*
+- **Baccalauréat, spécialité mathématiques, mention Bien** · *2020*
 
 ```mermaid
 timeline
     title Parcours
-    2020 - 2023 : B.Sc. Informatique
-    2023 - 2025 : M.Sc. Génie logiciel et données
-    2024 - 2025 : Ingénieur IT Data et IA, modèles de compression, PyTorch 2.3
-    2026 : Formation IA, hackathon et projets ML et DL
-         : Ingénieur Logiciel et Solutions IA, agents, MCP, plateformes métier
+    2020 : Baccalauréat mathématiques, mention Bien
+    2020 - 2023 : Licence Informatique, Université Gustave Eiffel
+    2023 - 2024 : Master 1 Informatique
+    2024 - 2025 : Master 2 Logiciel et ingénierie de données
+                : Stage puis alternance, ingénieur logiciel, VisioTerra, modèles de compression, PyTorch 2.3
+    2025 - 2027 : Master Développeur Big Data et IA, IPSSI Paris, en apprentissage
+    2026 : Stage MJY Holding, de juillet à novembre
+         : Alternance Ingénieur Logiciel et Solutions IA, agents, MCP, plateformes métier
 ```
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## 🌌 Centres d'intérêt
+
+<p align="center">
+  <img src="assets/espace.svg" alt="Ciel profond : une planète à anneau, des étoiles qui scintillent et le vide sidéral" width="100%">
+</p>
+
+```bash
+$ ls ~/hobbies
+espace/   photographie/   dessin/   ecriture/   lecture/   cinema/   theatre/   gym/   nature/
+```
+
+| Domaine | Ce qui me plaît |
+| :-- | :-- |
+| **L'espace et le vide sidéral** | Le silence, l'échelle, la profondeur. Regarder loin et penser en systèmes : c'est l'esprit de ma constellation 3D et de ce profil. |
+| **Photographie** | La lumière, le contraste, le noir et blanc. Mes portfolios sont ma galerie. |
+| **Dessin et écriture** | Poser une idée, la structurer, la rendre lisible : le même geste que concevoir une architecture. |
+| **Théâtre, cinéma et lecture** | Les récits, le rythme, les personnages. Apprendre à raconter et à comprendre les gens. |
+| **Gym** | La discipline et la progression mesurable. |
+| **Nature** | Marcher, observer, couper le bruit. |
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -243,4 +301,4 @@ timeline
 
 Ouvert aux échanges sur l'IA appliquée, les agents et l'ingénierie logicielle.
 
-[LinkedIn](https://www.linkedin.com/in/seer-mensah-assiakoley-542628198/) · [Portfolio](https://www.maashrees.com) · [Mail](mailto:seer.mensaha@maashrees.com)
+[LinkedIn](https://www.linkedin.com/in/seer-mensah-assiakoley-542628198/) · [Portfolio](https://www.maashrees.com) · [Mail](mailto:seer.mensaha@gmail.com)
