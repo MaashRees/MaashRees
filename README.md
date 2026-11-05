@@ -231,7 +231,7 @@ Je suis et expérimente des projets comme le Google Agent Development Kit, n8n-a
 
 ## 🎓 Parcours
 
-- **Ingénieur Logiciel & Solutions IA** · Holding (retail de vélos électriques multi-boutiques et restauration) · *Depuis 2026*
+- **Ingénieur Logiciel & Solutions IA** · Holding (retail de vélos électriques multi-boutiques et restauration) · *Depuis 2025* · en alternance
   Applications métier, automatisation, plateforme d'agents IA, connecteurs MCP et intégrations.
 - **Master Développeur Big Data & IA** · IPSSI Paris · *2025 – 2027* · en apprentissage
   Machine learning, deep learning, NoSQL & Big Data, MERN, hackathon IA, semaine immersive.
