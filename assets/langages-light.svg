@@ -1,30 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="368" viewBox="0 0 760 368" role="img" aria-label="Répartition du code par langage">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="368" viewBox="0 0 760 368" role="img" aria-label="Langages">
 <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#0891b2"/><stop offset="1" stop-color="#9333ea"/></linearGradient></defs>
 <rect width="760" height="368" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="24" y="34" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#1f2328">Langages</text>
-<text x="24" y="54" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">Volume de code sur 64 dépôts (privés et publics, hors notebooks et balisage)</text>
+<text x="24" y="54" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">Volume de code sur 79 dépôts (privés et publics, hors notebooks et balisage)</text>
 <text x="24" y="86" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#1f2328">JavaScript</text>
-<rect x="150" y="70" width="520.0" height="22" rx="5" fill="url(#g)"/>
-<text x="678.0" y="86" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">37.1 %</text>
+<rect x="150" y="70" width="420.0" height="22" rx="5" fill="url(#g)"/>
+<text x="578.0" y="86" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">35.7 % · 40 projets</text>
 <text x="24" y="122" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#1f2328">TypeScript</text>
-<rect x="150" y="106" width="351.0" height="22" rx="5" fill="url(#g)"/>
-<text x="509.0" y="122" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">25.0 %</text>
+<rect x="150" y="106" width="283.3" height="22" rx="5" fill="url(#g)"/>
+<text x="441.3" y="122" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">24.1 % · 29 projets</text>
 <text x="24" y="158" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#1f2328">Python</text>
-<rect x="150" y="142" width="218.0" height="22" rx="5" fill="url(#g)"/>
-<text x="376.0" y="158" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">15.6 %</text>
+<rect x="150" y="142" width="183.8" height="22" rx="5" fill="url(#g)"/>
+<text x="341.8" y="158" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">15.6 % · 21 projets</text>
 <text x="24" y="194" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#1f2328">Dart</text>
-<rect x="150" y="178" width="132.4" height="22" rx="5" fill="url(#g)"/>
-<text x="290.4" y="194" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">9.4 %</text>
+<rect x="150" y="178" width="106.8" height="22" rx="5" fill="url(#g)"/>
+<text x="264.8" y="194" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">9.1 % · 1 projet</text>
 <text x="24" y="230" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#1f2328">Java</text>
-<rect x="150" y="214" width="88.0" height="22" rx="5" fill="url(#g)"/>
-<text x="246.0" y="230" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">6.3 %</text>
+<rect x="150" y="214" width="71.0" height="22" rx="5" fill="url(#g)"/>
+<text x="229.0" y="230" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">6.0 % · 2 projets</text>
 <text x="24" y="266" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#1f2328">SQL (PL/pgSQL)</text>
-<rect x="150" y="250" width="84.7" height="22" rx="5" fill="url(#g)"/>
-<text x="242.7" y="266" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">6.0 %</text>
+<rect x="150" y="250" width="68.3" height="22" rx="5" fill="url(#g)"/>
+<text x="226.3" y="266" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">5.8 % · 11 projets</text>
 <text x="24" y="302" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#1f2328">C</text>
-<rect x="150" y="286" width="3.1" height="22" rx="5" fill="url(#g)"/>
-<text x="161.1" y="302" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">0.2 %</text>
+<rect x="150" y="286" width="36.5" height="22" rx="5" fill="url(#g)"/>
+<text x="194.5" y="302" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">3.1 % · 6 projets</text>
 <text x="24" y="338" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#1f2328">Autres</text>
-<rect x="150" y="322" width="4.0" height="22" rx="5" fill="#d1d9e0"/>
-<text x="162.0" y="338" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">0.3 %</text>
+<rect x="150" y="322" width="7.2" height="22" rx="5" fill="#d1d9e0"/>
+<text x="165.2" y="338" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">0.6 %</text>
 </svg>

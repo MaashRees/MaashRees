@@ -149,7 +149,7 @@ C · C++ · Algorithmique · Compilation (Flex/Bison) · Programmation réseau �
 ## 📊 En chiffres
 
 <!-- stats:start -->
-Statistiques calculées sur l'ensemble de mes dépôts, privés comme publics (64 dépôts analysés, dont 57 privés). Mise à jour automatique chaque semaine, dernière exécution le 5 novembre 2026.
+Statistiques calculées sur l'ensemble de mes dépôts, privés comme publics (79 dépôts analysés, dont 69 privés). Mise à jour automatique chaque semaine, dernière exécution le 5 novembre 2026.
 <!-- stats:end -->
 
 <p align="center">
@@ -161,8 +161,15 @@ Statistiques calculées sur l'ensemble de mes dépôts, privés comme publics (6
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/technologies-dark.svg">
+    <img alt="Nombre de projets par technologie : React, Vite, Tailwind, Docker, Supabase, FastAPI, Flutter, Spring Boot, API Anthropic, OpenRouter" src="assets/technologies-light.svg" width="760">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/rythme-dark.svg">
-    <img alt="Nombre de dépôts créés par trimestre" src="assets/rythme-light.svg" width="760">
+    <img alt="Nombre de dépôts créés par année" src="assets/rythme-light.svg" width="760">
   </picture>
 </p>
 
