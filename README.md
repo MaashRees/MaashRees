@@ -148,7 +148,9 @@ C · C++ · Algorithmique · Compilation (Flex/Bison) · Programmation réseau �
 
 ## 📊 En chiffres
 
-Statistiques calculées sur l'ensemble de mes dépôts, privés comme publics (64 dépôts analysés, dont 58 privés).
+<!-- stats:start -->
+Statistiques calculées sur l'ensemble de mes dépôts, privés comme publics (64 dépôts analysés, dont 57 privés). Mise à jour automatique chaque semaine, dernière exécution le 5 novembre 2026.
+<!-- stats:end -->
 
 <p align="center">
   <picture>

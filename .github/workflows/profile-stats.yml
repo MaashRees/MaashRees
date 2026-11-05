@@ -1,0 +1,45 @@
+name: Mise à jour des graphiques du profil
+
+on:
+  schedule:
+    - cron: "17 5 * * 1" # chaque lundi à 05:17 UTC
+  workflow_dispatch: # lancement manuel depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Recalculer les graphiques
+        env:
+          # Secrets du dépôt : jeton en lecture, comptes à inclure, dépôts à exclure.
+          # Ils restent masqués dans les journaux.
+          GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+          STATS_OWNERS: ${{ secrets.STATS_OWNERS }}
+          STATS_EXCLUDE: ${{ secrets.STATS_EXCLUDE }}
+        run: python scripts/update_stats.py
+
+      - name: Enregistrer les changements
+        run: |
+          if [ -n "$(git status --porcelain assets README.md)" ]; then
+            git config user.name "profile-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets README.md
+            git commit -m "chore(stats): mise à jour hebdomadaire des graphiques"
+            git push
+          else
+            echo "Aucun changement à enregistrer."
+          fi
