@@ -231,11 +231,16 @@ Je suis et expérimente des projets comme le Google Agent Development Kit, n8n-a
 
 ## 💼 Expérience
 
-**Ingénieur Logiciel & Solutions IA** · Holding (retail de vélos électriques multi-boutiques et restauration) · *Depuis 2025* · en alternance
+**Ingénieur Logiciel & Solutions IA** · MJY Holding (retail de vélos électriques multi-boutiques et restauration) · alternance · *depuis 11/2026*
 
 - Conception d'une plateforme d'agents IA (orchestrateur, agents de domaine, supervision) et de connecteurs MCP en lecture seule.
 - Développement d'applications métier : RH et paie, stocks, réconciliation de paiements, SAV et atelier, tickets internes avec priorisation par IA.
 - Déploiement auto-hébergé (VPS, Coolify, Docker), intégration continue, sécurité des données par rôle, documentation et décisions d'architecture.
+
+**Stagiaire Ingénieur Logiciel & Solutions IA** · MJY Holding · stage · *07/2026 – 11/2026*
+
+- Développement d'applications métier internes (RH et planning, SAV et atelier, stocks) et mise en place de l'infrastructure auto-hébergée.
+- Premiers automatismes n8n et premières briques de la plateforme d'agents IA.
 
 **Ingénieur logiciel** · VisioTerra · alternance · *10/2024 – 09/2025* · Champs-sur-Marne
 
@@ -264,7 +269,8 @@ timeline
     2024 - 2025 : Master 2 Logiciel et ingénierie de données
                 : Stage puis alternance, ingénieur logiciel, VisioTerra, modèles de compression, PyTorch 2.3
     2025 - 2027 : Master Développeur Big Data et IA, IPSSI Paris, en apprentissage
-                : Ingénieur Logiciel et Solutions IA, agents, MCP, plateformes métier
+    2026 : Stage MJY Holding, de juillet à novembre
+         : Alternance Ingénieur Logiciel et Solutions IA, agents, MCP, plateformes métier
 ```
 
 <img src="assets/divider.svg" alt="" width="100%">
