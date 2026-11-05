@@ -87,8 +87,21 @@ Hébergement auto-hébergé sur VPS (Coolify, Docker, reverse proxy, HTTPS autom
 
 ## 🛠 Stack technique
 
+<p align="center">
+  <img src="assets/stack-3d.svg" alt="Graphe 3D en rotation du stack : IA et LLM (API Anthropic, OpenRouter, MCP), backend et données, front et mobile, DevOps" width="100%">
+</p>
+
+### Utilisation des API d'IA
+
+| API | Ce que j'en fais | Détails |
+| :-- | :-- | :-- |
+| **API Anthropic** (Claude) | Agents d'orchestration, de domaine et de supervision, analyse de tickets, génération de projets, relecture assistée de rapprochements | L'IA propose, l'humain décide ; relecture avant tout envoi externe |
+| **OpenRouter** | Accès à plusieurs modèles par une seule API : vision et conseils personnalisés, traduction | Choix du fournisseur par configuration, avec bascule entre cloud et modèle local |
+| **MCP** | Exposer des applications métier aux assistants IA | Lecture seule par défaut, écritures en file d'attente validées, jeton personnel par utilisateur |
+
 ### IA & Agents
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-API_multi--modèles-6467F2?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-black?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -220,21 +233,25 @@ Je suis et expérimente des projets comme le Google Agent Development Kit, n8n-a
 
 - **Ingénieur Logiciel & Solutions IA** · Holding (retail de vélos électriques multi-boutiques et restauration) · *Depuis 2026*
   Applications métier, automatisation, plateforme d'agents IA, connecteurs MCP et intégrations.
-- **Formation en intelligence artificielle** · IPSSI · *2026*
+- **Master Développeur Big Data & IA** · IPSSI Paris · *2025 – 2027* · en apprentissage
   Machine learning, deep learning, NoSQL & Big Data, MERN, hackathon IA, semaine immersive.
 - **Ingénieur IT Data & IA** · VisioTerra · *05/2024 – 09/2025*
   Entraînement de modèles de compression sur images Sentinel-1, migration vers PyTorch 2.3 (**-30 % de temps d'exécution**), compression jusqu'à **×250**, scripts de gestion de stockage objet S3.
-- **M.Sc. Informatique, Génie logiciel & données** · Université Gustave Eiffel · *2023 – 2025*
-- **B.Sc. Informatique** · Université Gustave Eiffel · *2020 – 2023*
+- **Master 2 Logiciel & ingénierie de données** · Université Gustave Eiffel · *2024 – 2025*
+- **Master 1 Informatique** · Université Gustave Eiffel · *2023 – 2024*
+- **Licence Informatique** · Université Gustave Eiffel · *2020 – 2023*
+- **Baccalauréat, spécialité mathématiques, mention Bien** · *2020*
 
 ```mermaid
 timeline
     title Parcours
-    2020 - 2023 : B.Sc. Informatique
-    2023 - 2025 : M.Sc. Génie logiciel et données
-    2024 - 2025 : Ingénieur IT Data et IA, modèles de compression, PyTorch 2.3
-    2026 : Formation IA, hackathon et projets ML et DL
-         : Ingénieur Logiciel et Solutions IA, agents, MCP, plateformes métier
+    2020 : Baccalauréat mathématiques, mention Bien
+    2020 - 2023 : Licence Informatique, Université Gustave Eiffel
+    2023 - 2024 : Master 1 Informatique
+    2024 - 2025 : Master 2 Logiciel et ingénierie de données
+                : Ingénieur IT Data et IA, modèles de compression, PyTorch 2.3
+    2025 - 2027 : Master Développeur Big Data et IA, IPSSI Paris, en apprentissage
+                : Ingénieur Logiciel et Solutions IA, agents, MCP, plateformes métier
 ```
 
 <img src="assets/divider.svg" alt="" width="100%">
